@@ -1,5 +1,7 @@
 {
   "usingComponents": {
-    "f-big-image": "/components/bigImage/cmp"
+    "f-big-image": "/components/bigImage/cmp",
+    "f-pure-text": "/components/pureText/cmp",
+    "f-img-text": "/components/imgText/cmp"
   }
 }

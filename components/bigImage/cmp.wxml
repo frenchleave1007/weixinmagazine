@@ -1,4 +1,5 @@
 <!--components/bigImage/cmp.wxml-->
+<!-- 大图组件 -->
 <view class="container">
   <image class="image" mode="widthFix" src="{{imgSrc}}" />
   <text class="text">{{mainTitle}}</text>

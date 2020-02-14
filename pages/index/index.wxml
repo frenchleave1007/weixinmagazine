@@ -1,2 +1,6 @@
 <!--pages/index/index.wxml-->
-<f-big-image img-src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1581604686521&di=83e392f9592cc9787ec83e8fc391f5a6&imgtype=0&src=http%3A%2F%2Fimg.ewebweb.com%2Fuploads%2F20190403%2F15%2F1554275984-CghfBeMolO.jpg" main-title="啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"/>
+<f-big-image img-src="http://img3.imgtn.bdimg.com/it/u=2093425964,1763924149&fm=26&gp=0.jpg" main-title="啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"/>
+
+<f-pure-text main-title="企鹅窝无无无无无无无无无无无无无无无无无" sub-head="咔咔咔咔咔咔扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩"/>
+
+<f-img-text main-title="add的多多多多多撒奥奥奥奥奥奥奥奥奥奥奥奥奥" sub-head="胜多负少所所所所所所所所所所所所所所" img-src="http://img2.imgtn.bdimg.com/it/u=1405314011,1793554833&fm=26&gp=0.jpg"/>

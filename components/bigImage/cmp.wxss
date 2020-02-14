@@ -1,4 +1,9 @@
 /* components/bigImage/cmp.wxss */
+/* .container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
 .image{
   width: 700rpx;
 }
