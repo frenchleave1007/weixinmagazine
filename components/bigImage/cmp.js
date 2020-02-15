@@ -1,5 +1,8 @@
 // components/bigImage/cmp.js
+const behavior = require("../behavior/my-behavior.js")
+
 Component({
+  behaviors: [behavior],
   /**
    * 组件的属性列表
    */
@@ -15,8 +18,8 @@ Component({
     //   value: '',
     //   observer() {}
     // }
-    imgSrc: String,
-    mainTitle: String
+    // imgSrc: String,
+    // mainTitle: String
   },
 
   /**

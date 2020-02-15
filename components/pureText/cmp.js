@@ -1,11 +1,14 @@
 // components/pureText/cmp.js
+const behavior = require("../behavior/my-behavior.js")
+
 Component({
+  behaviors: [behavior],
   /**
    * 组件的属性列表
    */
   properties: {
-    mainTitle: String,
-    subHead: String
+    // mainTitle: String,
+    // subHead: String
   },
 
   /**

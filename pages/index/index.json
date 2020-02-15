@@ -2,6 +2,8 @@
   "usingComponents": {
     "f-big-image": "/components/bigImage/cmp",
     "f-pure-text": "/components/pureText/cmp",
-    "f-img-text": "/components/imgText/cmp"
+    "f-img-text": "/components/imgText/cmp",
+    "f-nine-img": "/components/nineImg/cmp",
+    "f-video": "/components/video/cmp"
   }
 }
