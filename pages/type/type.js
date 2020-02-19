@@ -1,7 +1,4 @@
-// pages/index/index.js
-const IndexApi = require('../../api/index.js')
-const indexApi = new IndexApi()
-
+// pages/type/type.js
 Page({
 
   /**
@@ -15,17 +12,7 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    this.getData()
-  },
-
-  getData() {
-    const articleList = indexApi.getArticleList()
-    const markList = indexApi.getMarkList()
-    const recommend = indexApi.getRecommendList()
-
-    Promise.all([articleList, markList, recommend]).then(res => {
-      console.log(res)
-    })
+    console.log(options)
   },
 
   /**

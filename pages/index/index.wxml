@@ -1,5 +1,5 @@
 <!--pages/index/index.wxml-->
-<f-big-image img-src="http://img3.imgtn.bdimg.com/it/u=2093425964,1763924149&fm=26&gp=0.jpg" main-title="啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"/>
+<!-- <f-big-image img-src="http://img3.imgtn.bdimg.com/it/u=2093425964,1763924149&fm=26&gp=0.jpg" main-title="啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"/>
 
 <f-pure-text main-title="企鹅窝无无无无无无无无无无无无无无无无无" sub-head="咔咔咔咔咔咔扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩扩"/>
 
@@ -14,3 +14,11 @@
   duration="41'"
   video-id="video2020"
 />
+
+<f-tag tag="心理" tag-id="1"/>
+
+<f-more tag="心理"/>
+
+<f-like like="true"/> -->
+
+<f-article type="{{0}}"/>
